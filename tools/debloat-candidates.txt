@@ -1,0 +1,4 @@
+# Reviewed on the HiSmart TV before disabling; see README.md for rationale.
+com.internet.tvbrowser
+com.google.android.tvrecommendations
+com.google.android.tvlauncher

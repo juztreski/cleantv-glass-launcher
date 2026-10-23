@@ -1,0 +1,38 @@
+<resources>
+    <string-array name="dock_packages">
+        <item>com.google.android.youtube.tv</item>
+        <item>com.netflix.ninja</item>
+        <item>com.vuclip.viu.tv</item>
+        <item>com.vidio.android.tv</item>
+    </string-array>
+    <string-array name="hidden_packages" />
+    <string-array name="favorite_channels" />
+    <integer name="grid_columns">4</integer>
+    <string name="prayer_location">Kabupaten Soppeng, Sulawesi Selatan</string>
+    <string name="prayer_latitude">-4.35</string>
+    <string name="prayer_longitude">119.89</string>
+    <string name="prayer_timezone">Asia/Makassar</string>
+    <string name="wallpaper_uri"></string>
+    <integer name="screensaver_timeout_seconds">120</integer>
+    <string-array name="location_presets">
+        <item>Kabupaten Soppeng, Sulawesi Selatan|-4.35|119.89|Asia/Makassar</item>
+        <item>Kota Makassar, Sulawesi Selatan|-5.1477|119.4327|Asia/Makassar</item>
+        <item>Kota Jakarta, DKI Jakarta|-6.2088|106.8456|Asia/Jakarta</item>
+        <item>Kota Surabaya, Jawa Timur|-7.2575|112.7521|Asia/Jakarta</item>
+        <item>Kota Bandung, Jawa Barat|-6.9175|107.6191|Asia/Jakarta</item>
+        <item>Kota Semarang, Jawa Tengah|-6.9667|110.4167|Asia/Jakarta</item>
+        <item>Kota Yogyakarta, DI Yogyakarta|-7.7956|110.3695|Asia/Jakarta</item>
+        <item>Kota Medan, Sumatera Utara|3.5952|98.6722|Asia/Jakarta</item>
+        <item>Kota Denpasar, Bali|-8.6705|115.2126|Asia/Makassar</item>
+        <item>Kota Balikpapan, Kalimantan Timur|-1.2379|116.8529|Asia/Makassar</item>
+        <item>Kota Jayapura, Papua|-2.5916|140.6690|Asia/Jayapura</item>
+    </string-array>
+    <string-array name="feature_switches">
+        <item>system_pills=true</item>
+        <item>prayer_times=true</item>
+        <item>screensaver=true</item>
+        <item>watch_next=true</item>
+        <item>dock_preview_video=true</item>
+        <item>verse_widget=true</item>
+    </string-array>
+</resources>

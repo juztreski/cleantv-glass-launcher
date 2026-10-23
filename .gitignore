@@ -1,0 +1,22 @@
+# Android / Gradle
+.gradle/
+build/
+app/build/
+local.properties
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Device-specific dumps (do not publish)
+backup/
+
+# Keep only the final documentation screenshots
+screenshots/*
+!screenshots/final-watch-next.png
+!screenshots/final-dock-preview.png
+
+# OS
+.DS_Store
+Thumbs.db

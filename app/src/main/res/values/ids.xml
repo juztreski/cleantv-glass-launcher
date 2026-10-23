@@ -1,0 +1,6 @@
+<resources>
+    <item name="app_position" type="id" />
+    <item name="focus_section" type="id" />
+    <item name="focus_position" type="id" />
+    <item name="focus_accent" type="id" />
+</resources>
